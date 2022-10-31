@@ -24,6 +24,8 @@
 
 * git checkout - Переход на другую ветку.
 
+* git merge - Слияние версий.
+
 [GitHub][def]
 
 [def]: https://gb.ru/education
