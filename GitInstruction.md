@@ -20,6 +20,8 @@
 
 * git checkout - Отмена подготовленных и неподготовленных изменений.
 
+* git branch - Создание новой ветки.
+
 [GitHub][def]
 
 [def]: https://gb.ru/education
