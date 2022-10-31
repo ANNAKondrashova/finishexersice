@@ -22,6 +22,8 @@
 
 * git branch - Создание новой ветки.
 
+* git checkout - Переход на другую ветку.
+
 [GitHub][def]
 
 [def]: https://gb.ru/education
